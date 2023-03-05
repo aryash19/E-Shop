@@ -8,7 +8,7 @@ function CheckoutProduct() {
 
     <div className="product__info">
         <p className="checkoutProduct__title">
-        Bennett Mystic 15.6 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women (Blue)
+        Bennett Mystic 15.60 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women (Blue)
         </p>
         <p className="checkoutProduct__price">
         <small>Rs.</small>
