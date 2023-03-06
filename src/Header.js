@@ -24,7 +24,7 @@ function Header() {
         <div className="header_nav">
           <div className="nav_item">
            <span className="navitemone">Hello Guest</span>
-           <span className="navitemtwo">Sign In</span>
+           <span className="navitemtwo">Log In</span>
           </div>
           <div className="nav_item">
            <span className="navitemone">Your</span>
